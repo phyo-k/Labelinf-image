@@ -8,5 +8,5 @@
 - 파일이 다 올라가지 않아 구글 드라이브 주소를 올립니다.
 - https://drive.google.com/drive/folders/1ElNzE4FRH93kqEDLkqMOzgKSCFUlbkF2?usp=sharing
 
-made in 2021.04
 -------------------------------------------------------------------------------
+made on 2021.4.
